@@ -53,3 +53,4 @@ def tweet_random_image():
         api.update_with_media(delta, '#WJSN #우주소녀 #' + alpha.title())
     print("tweeted " + delta + " at " + str(datetime.datetime.now()))
 
+tweet_random_image()
