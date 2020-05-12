@@ -65,4 +65,3 @@ def tweet_random_image():
 
 tweet_random_image()
 follow_back()
-
